@@ -1,0 +1,6 @@
+{
+    "scope": ["https://www.googleapis.com/auth/spreadsheets.readonly"],
+    "credential_file": "./env/thamturakit-data-center-credential.json",
+    "sheet_key": "158WrHshK-sbUZtgcjNn8MnXqo8paWpt9t1g7-RvHHdE",
+    "sheet_name": "Report",
+}
